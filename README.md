@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gustavo Diaz (@gdiazcamilo). My main tech stacks are Python/Django/MySQL and C#/.NET MVC/MS-SQL
+- 👋 Hi, I’m Gustavo Diaz (@gdiazcamilo). My main tech stacks are Python/Django/MySQL and C#/.NET MVC/MS-SQL and Javascript here and there.
 - 👀 I’m always interested in learning and checking examples on how to build maintanable, readable, reusable and testable systems.
 - 🌱 I’m currently learning techs around the React ecosystem (redux-sagas, jest, RTL, redux, etc) and Docker.
 - 💞️ I’m looking to collaborate on projects that focus on healthy and sustainable live style.
