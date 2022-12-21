@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Gustavo Diaz (@gdiazcamilo). My main tech stacks are Python/Django/MySQL and C#/.NET MVC/MS-SQL and Javascript here and there.<br>- 👀 I’m always interested in learning and checking examples on how to build maintainable, readable, reusable, and testable systems.<br>- 🌱 I’m currently learning techs around the React ecosystem (redux-sagas, jest, RTL, redux, etc) and Docker.<br>- 💞️ I’m looking to collaborate on projects that focus on a healthy and sustainable lifestyle.<br>- 📖 I'm currently reading [Programming Pearls by Jon Bentley](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)<br>- 🪃 I like to learn primitive skills
+👋 Hi, I’m Gustavo Diaz (@gdiazcamilo). I've work mostly with Web applications and REST APIs.<br>- 👀 I’m always interested in learning and checking examples on how to build maintainable, readable, reusable, and testable systems.<br>- 🌱 I’m currently learning techs around the React ecosystem (redux-sagas, jest, RTL, redux, etc) and Docker.<br>- 💞️ I’m looking to collaborate on projects that focus on a healthy and sustainable lifestyle.<br>- 📖 I'm currently reading [Programming Pearls by Jon Bentley](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)<br>- 🪃 I like to learn primitive skills
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=gdiazcamilo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gdiazcamilo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gdiazcamilo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gdiazcamilo&icon=0&color=0)](https://visitcount.itsvg.in)
